@@ -12,4 +12,26 @@ On any clock screen, a long press brings up a buttons screen that is where you c
 
 This program has mostly been converted to use OpenFontRender and uses TTF binaries and sets font selection and sizes as needed.  I have not figured out how to interface with the tft_espi button render routine to make it connect with the OFR code so there is still some old binary lines to support that.  Will remove when I can.
 
+This one enables you to have two time zones showing at the same time.  Neither of them needs to be the time shown on all of the other screens (hometime).
 ![Screenshot](DTZ.jpg)
+
+This screen was designed to be readable from across a large room but still usable in smaller spaces, too.
+![Screenshot](3Line.jpg)
+
+This one is for fun.  The seconds come on and off around the screen and the hands, of course, point to the hour and minute.
+![Screenshot](Analog.jpg)
+
+This one is for fun, too.  Ask your friends to tell you the time as it is shown on the "LED" dots.  I won't spoil the fun by telling how just yet.  Play with it and figure out how to read it.
+![Screenshot](BCD.jpg)
+
+This is the calendar display.  It comes up on the current month and the current day highlighted. A swipe left or right will change it, one month at a time, forward or back.
+![Screenshot](Calendar.jpg)
+
+This is the text associated with a date that is highlighted on the calendar screen other than the current day.
+![Screenshot](Legend.jpg)
+
+This screen has 3 buttons on it for Show Legend, Show Payday (duplicate of a swipe on a clock screen) and the option to reboot in case the fetched time is incorrect.
+![Screenshot](Menu.jpg)
+
+This one shows the payday for USA Social Security System.  It depends on your birth day (just the date of the month, not your full birthdate)
+![Screenshot](SS_Payday.jpg)
