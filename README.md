@@ -12,4 +12,4 @@ On any clock screen, a long press brings up a buttons screen that is where you c
 
 This program has mostly been converted to use OpenFontRender and uses TTF binaries and sets font selection and sizes as needed.  I have not figured out how to interface with the tft_espi button render routine to make it connect with the OFR code so there is still some old binary lines to support that.  Will remove when I can.
 
-![Screenshot](screenshot.png)
+![Screenshot](DTZ.jpg)
