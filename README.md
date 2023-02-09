@@ -12,7 +12,8 @@ On any clock screen, a long press brings up a buttons screen that is where you c
 
 This program has mostly been converted to use OpenFontRender and uses TTF binaries and sets font selection and sizes as needed.  I have not figured out how to interface with the tft_espi button render routine to make it connect with the OFR code so there is still some old binary lines to support that.  Will remove when I can.
 
-This one enables you to have two time zones showing at the same time.  Neither of them needs to be the time shown on all of the other screens (hometime).
+This one enables you to have two time zones showing at the same time.  
+Neither of them needs to be the time shown on all of the other screens (hometime).
 ![Screenshot](DTZ.jpg)
 
 This screen was designed to be readable from across a large room but still usable in smaller spaces, too.
