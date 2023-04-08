@@ -2,7 +2,7 @@
 
 Clock with multiple times zones, multiple clock faces, calendar, touch capable and much more.  See the jpgs in the folder for a view of the screens.
 
-Included is a routine I wrote to implement single, double, triple, long and 8-way swipe.  It can be used for any touch screen but may, of course, take some modification.
+Included is a routine I wrote to implement single, double, triple, long touch and 8-way swipe.  It can be used for any touch screen but may, of course, take some modification.
 
 A single touch rotates between the 5 main screens.  A double tap brings up the calendar.  Today is highlighted as well as any user supplied dates, such as anniversary or birthdays.  A swipe brings up the American Social Security payday.  You enter your birth date (numberic day of monty) and it figures out when your payday is.
 
